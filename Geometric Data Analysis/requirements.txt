@@ -1,0 +1,20 @@
+# Core numerical and data libraries
+numpy
+scipy
+PyYAML
+
+# Deep Learning
+torch
+
+# Image Processing and IO
+SimpleITK
+scikit-image
+itk
+
+
+# Visualization and Plotting
+matplotlib
+tqdm
+ipywidgets
+pyvista
+itkwidgets
