@@ -1,7 +1,7 @@
 # Modeling the Shape of the Brain Connectome via Deep Neural Networks
 
-**Course:** Geometric Data Analysis 
-**Instructor:** Jean Feydy  
+**Course:** Geometric Data Analysis   
+**Instructor:** Jean Feydy
 
 ## Project Overview
 
