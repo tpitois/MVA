@@ -1,6 +1,6 @@
 # Modeling the Shape of the Brain Connectome via Deep Neural Networks
 
-**Course:** Geometric Data Analysis (Master MVA)  
+**Course:** Geometric Data Analysis 
 **Instructor:** Jean Feydy  
 
 ## Project Overview
@@ -8,6 +8,8 @@
 The goal of this project is to study and reproduce the findings of the paper [Modeling the Shape of the Brain Connectome via Deep Neural Networks](https://arxiv.org/abs/2203.06122) (Dai et al., 2023).
 
 This paper proposes a method to estimate a Riemannian metric compatible with Diffusion-Weighted Imaging (DWI) data, allowing for the modeling of neural connections as geodesics on a manifold.
+
+📄 **[Read the full project report here (report.pdf)](https://github.com/tpitois/MVA/blob/main/Geometric%20Data%20Analysis/docs/report.pdf)**
 
 ## Repository Structure
 
